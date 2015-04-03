@@ -10,7 +10,7 @@ _Note: the title of the issue should be the "working title" of your talk. It can
 
 Copy the below template and paste into a [new issue](https://github.com/charmCityJs/talks/issues/new)
 
-**Your Name:** Jamie Personface
+**Your name:** Jamie Personface
 
 **Your idea:** I'm thinking about presenting this cool todo app I built, using a mash-up of 35 different JS frameworks to maximize the real-time potential of the semantic web. I'll walk everyone through how I used gulp-grunt-broccoli to build it and then show them a quick demo of some of the awesome shadow DOM things it can do.
 
