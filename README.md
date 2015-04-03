@@ -4,8 +4,6 @@ We want YOU to come talk or present at a future charmCityJS event! (Seriously, w
 
 To submit an idea, copy the below template, then [create a new issue](https://github.com/charmCityJs/talks/issues/new) and paste it in, filling it out with your details. Doesn't need to be super detailed or formal like an abstract, just casually give us an idea of what you'll talk about. **OK GO!!!**
 
-***
-
 _Note: the title of the issue should be the "working title" of your talk. It can change so don't worry about it much._
 
 ## Issue Template
