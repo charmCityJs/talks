@@ -10,11 +10,9 @@ Not interested in speaking yourself, but have topics you'd like to see covered, 
 
 **To submit a topic request**, copy the below Topic Request Template, then [create a new issue](https://github.com/charmCityJs/talks/issues/new) and paste it in, and add your request. This doesn't have to be elaborate, but try not to be overly vague in your request. **HAVE AT IT!!!**
 
-_Note: the title of the issue should be the "working title" of your talk. It can change so don't worry about it much._
+## Talk Proposal Template
 
-## Issue Template
-
-Copy the below template and paste into a [new issue](https://github.com/charmCityJs/talks/issues/new)
+_Copy the below template and paste into a [new issue](https://github.com/charmCityJs/talks/issues/new)_
 
 **Your name:** Jamie Personface
 
@@ -28,9 +26,7 @@ _This could be a single month, a list of upcoming months, or you can leave it of
 
 ## Topic Request Template
 
-_Note: the title of the issue should start with "Request: " and then the actual topic request._
-
-Copy the below template and past it into a [new issue](https://github.com/charmCityJs/talks/issues/new)
+_Note: the title of the issue should start with "Request: " and then the actual topic request. Copy the below template and paste it into a [new issue](https://github.com/charmCityJs/talks/issues/new)_
 
 **Your name:** Dale Doback
 
