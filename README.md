@@ -22,10 +22,6 @@ _Copy the below template and paste into a [new issue](https://github.com/charmCi
 
 **Approx length:** (keep this number betweeen 1 and 20 minutes, please)
 
-**Month(s) available:** Feburary or June
-
-_This could be a single month, a list of upcoming months, or you can leave it off if you want us to work it out with you, no pressure._
-
 ## Topic Request Template
 
 _Note: the title of the issue should start with "Request: " and then the actual topic request. Copy the below template and paste it into a [new issue](https://github.com/charmCityJs/talks/issues/new)_
