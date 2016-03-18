@@ -1,8 +1,17 @@
 # talks
 
-We want YOU to come talk or present at a future charmCityJS event! (Seriously, we want you to do it. We'll beg if we have to.) A "talk" can be anything--a walk-through of some code you wrote, a story you want to tell, a project you're working on, some art or a robot or a song or wearable tech or anything you can think of that even remotely relates to JavaScript or the tech community in general, we're all ears!
+We want YOU to come talk or present at a future charmCityJS event! (_Seriously, we want you to do it. We'll beg if we have to._) A "talk" can be anything:
 
-Talks should be 1-20 minutes long, and our events occur on the first Wednesday of the month starting May 2015 in Baltimore, MD. View our [meetup.com page](http://www.meetup.com/charmcityjs) for a list of upcoming events.
+- a walk-through of some code you wrote
+- a story you want to tell
+- a project you're working on
+- a story about some art you played around with
+- a story about a robot you met/made
+- a story about a song you made a computer co-create
+- a story about some wearable tech you think is cool
+- anything you can think of that even remotely relates to JavaScript or the tech community in general!
+
+Talks must be less than 20 minutes long for us to consider them, with 5-10 minute talks being our preference. Our events occur on the first Wednesday of the month--check out our [meetup.com page](http://www.meetup.com/charmcityjs) for a list of upcoming events.
 
 **To submit an idea**, just [create a new issue](https://github.com/charmCityJs/talks/issues/new) and fill it out with your details. Just casually give us an idea of what you'll talk about and how long it'll be. **OK GO!!!**
 
