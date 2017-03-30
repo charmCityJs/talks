@@ -6,6 +6,10 @@
 
 **Short talk title (optional):** 
 
+**CCJS Slack username:**
+
+_If you're not a member of CCJS slack, sign up here so we can communicate about your talk, if you don't mind:_ http://charmcityjs.herokuapp.com/
+
 **Twitter username (optional):** 
 
 **Length: (1-15 min please):** 
