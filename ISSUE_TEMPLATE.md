@@ -18,9 +18,10 @@ _If you're not a member of CCJS slack, sign up here so we can communicate about 
 
 **Availability:**
 _Please check off the dates in which you would be interested in presenting your talk:_
-- [ ] March 6th, 2019
-- [ ] April 3rd, 2019
-- [ ] May 1st, 2019
+
 - [ ] June 5th, 2019
+- [ ] July 3rd, 2019
 - [ ] August 7th, 2019
 - [ ] September 4th, 2019
+- [ ] October 2nd, 2019
+- [ ] November 6th, 2019
