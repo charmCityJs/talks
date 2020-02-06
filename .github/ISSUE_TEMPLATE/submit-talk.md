@@ -28,10 +28,6 @@ _If you're not a member of CCJS slack, sign up here so we can communicate about 
 **Availability:**
 _Please check off the dates in which you would be interested in presenting your talk:_
 
-- [ ] November 6th, 2019
-- [ ] December 4th, 2019
-- (No January Meetup in 2020)
-- [ ] February 5th, 2020
 - [ ] March 4th, 2020
 - [ ] April 1st, 2020
 - [ ] May 6th, 2020
