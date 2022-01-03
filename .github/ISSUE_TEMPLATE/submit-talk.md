@@ -30,14 +30,15 @@ _If you're not a member of CCJS slack, sign up here so we can communicate about 
 **Availability:**
 _Please check off the dates in which you would be interested in presenting your talk:_
 
-- [ ] February 3rd, 2021
-- [ ] March 3rd, 2021
-- [ ] April 7th, 2021
-- [ ] May 5th, 2021
-- [ ] June 2nd, 2021
-- [ ] July 7th, 2021
-- [ ] August 4th, 2021
-- [ ] September 1st, 2021
-- [ ] October 6th, 2021
-- [ ] November 3rd, 2021
-- [ ] December 1st, 2021
+- [ ] February 2nd, 2022
+- [ ] March 2nd, 2022
+- [ ] April 6th, 2022
+- [ ] May 4th, 2022
+- [ ] June 1st, 2022
+- [ ] July 6th, 2022
+- [ ] August 3rd, 2022
+- [ ] September 7th, 2022
+- [ ] October 5th, 2022
+- [ ] November 2nd, 2022
+- [ ] December 7th, 2022
+- [ ] January 4th, 2023
