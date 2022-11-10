@@ -18,4 +18,3 @@ Talks must be 15 minutes or less for us to consider them, with 10 minute talks b
 
 **To submit an idea**, just [create a new issue](https://github.com/charmCityJs/talks/issues/new/choose) and fill it out with your details. Just casually give us an idea of what you'll talk about and how long it'll be. **OK GO!!!**
 
-> _Note: If you'd prefer not to use GitHub for any reason, you can also submit talks via this Google Form: http://goo.gl/forms/gBCRtIiyMH_
