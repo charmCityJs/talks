@@ -21,7 +21,7 @@ Once submitted our team of moderators will review your talk and notify you a few
 
 **CCJS Slack username:**
 
-_If you're not a member of CCJS slack, sign up here so we can communicate about your talk, if you don't mind:_ http://charmcityjs.herokuapp.com/
+_If you're not a member of CCJS slack, sign up here so we can communicate about your talk, if you don't mind:_ [http://slack.charmcityjs.org](http://slack.charmcityjs.org)
 
 **Twitter username (optional):** 
 
