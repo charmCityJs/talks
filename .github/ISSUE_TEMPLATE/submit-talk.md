@@ -30,13 +30,13 @@ _If you're not a member of CCJS slack, sign up here so we can communicate about 
 **Availability:**
 _Please check off the dates in which you would be interested in presenting your talk:_
 
-- [ ] March 2nd, 2022
-- [ ] April 6th, 2022
-- [ ] May 4th, 2022 - Star Wars Day
-- [ ] June 1st, 2022
-- [ ] July 6th, 2022
-- [ ] August 3rd, 2022
-- [ ] September 7th, 2022
-- [ ] October 5th, 2022
-- [ ] November 2nd, 2022
-- [ ] December 7th, 2022
+- [ ] March 1st, 2023
+- [ ] April 5th, 2023
+- [ ] May 3rd, 2023
+- [ ] June 7th, 2023
+- [ ] July 5th, 2023
+- [ ] August 2nd, 2023
+- [ ] September 6th, 2023
+- [ ] October 4th, 2023
+- [ ] November 1st, 2023
+- [ ] December 6th, 2023
